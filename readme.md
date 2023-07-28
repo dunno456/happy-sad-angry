@@ -13,3 +13,5 @@ Note: I ran this model on a relatively low epoch with information that was askew
 4. Exit the docker container and run the model. 
 
 [View a video explanation and demo here] (https://youtu.be/5MywH4NG1Yw)
+
+There were some files that weren't be able to be added to the repo, so I put them in google drive: https://drive.google.com/drive/folders/1n1iAMQHOP2PRX5spQ5MYHnXC-1KzewTn?usp=sharing

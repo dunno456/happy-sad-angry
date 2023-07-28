@@ -8,7 +8,7 @@ Note: I ran this model on a relatively low epoch with information that was askew
 
 ## Running this project
 1. Connect to your Jetson Nano via VSCODE. 
-2. Ensure that you have the proper things installed. The Renet18.onnx and all others like that - the ones that say resnet18.onnx and the train.py. Also, esure that you have the labels.txt file.
+2. Ensure that you have the proper things installed. The Renet18.onnx and all others like that - the ones that say resnet18.onnx and the train.py. Make sure that the files are put in the jetson-inference/python/training/classification. 
 3. Run the docker container and train and export the model.
 4. Exit the docker container and run the model. 
 

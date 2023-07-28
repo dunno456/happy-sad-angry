@@ -12,4 +12,4 @@ Note: I ran this model on a relatively low epoch with information that was askew
 3. Run the docker container and train and export the model.
 4. Exit the docker container and run the model. 
 
-[View a video explanation here](video link)
+[View a video explanation and demo here] (https://youtu.be/5MywH4NG1Yw)
